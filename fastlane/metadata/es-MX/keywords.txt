@@ -1,0 +1,1 @@
+pesca,registro,cupo,sarta,conservar,liberar,pescador,cestilla,cupo diario,temporada,perca,lucio,peso

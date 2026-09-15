@@ -1,0 +1,696 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		04C2795B5E2ABF6237566003 /* StringerLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A76070286D4A697E76F416A /* StringerLaunchTests.swift */; };
+		0F64AD6A433593DA310D6695 /* CreelYard.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7A7F95FA8AA0A9C0E99198F /* CreelYard.swift */; };
+		136019A9FF1C146CD82039E8 /* StringerFoldTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 519254572B6CD7439CFB03B1 /* StringerFoldTests.swift */; };
+		195DE6EC9389FAAD53D0D6D8 /* CreelFault.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AE2AB36BCC0876B3DB8FA4E /* CreelFault.swift */; };
+		1C9332F01BAC5E0542ED306C /* CreelTestDates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 743D8D961C9E2AC62E8E9325 /* CreelTestDates.swift */; };
+		1D178D58D86EF20AF97ED260 /* CreelHoldTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D72B5BE57229CADC0E85B84 /* CreelHoldTests.swift */; };
+		1E36B08644C42595DF10E17E /* SpeciesLimit.swift in Sources */ = {isa = PBXBuildFile; fileRef = D14157A675E3A55512CC290F /* SpeciesLimit.swift */; };
+		205265B20E6D8A2833EFE3F6 /* APIConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 665E994139FD62B17BC46F65 /* APIConfig.swift */; };
+		2630B1327FBE3EE681C3595F /* KeepMark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D19DD63827980EAE519B9D1 /* KeepMark.swift */; };
+		29824FE05963DCADB061EB47 /* StringerChrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08F1E871E5F0F36E21592F68 /* StringerChrome.swift */; };
+		2D4FA0D4E98D65CC170E07A9 /* CensusDay.swift in Sources */ = {isa = PBXBuildFile; fileRef = A598FB0A689775E6E5BBC94A /* CensusDay.swift */; };
+		2DC1C8F2BAD10148B2C29C8D /* FamilyInvariantTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD1F618959C249563642E99 /* FamilyInvariantTests.swift */; };
+		3055781D482EFB0E81E8EC27 /* CreelCSV.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDB0F51A74F68BC7E374C868 /* CreelCSV.swift */; };
+		3113D8BB6996D9CF171E6873 /* CreelHold.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACD146183DD88BEC6DEC9486 /* CreelHold.swift */; };
+		3A3C081DFDDB1EE409A6A3F2 /* CreelInk.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6032D36ECB6639A4EA31EB8D /* CreelInk.swift */; };
+		3E64BE397945412A70380A03 /* CatchesPane.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0492EF45FE261AF2BFE8C571 /* CatchesPane.swift */; };
+		4B7F27B9F9BF381161F38D08 /* CreelPlate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC37630746B32580BFA65865 /* CreelPlate.swift */; };
+		4E1BC5993153AEA9847A507E /* StringerLaunch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AADDA46AD7F457A12203589 /* StringerLaunch.swift */; };
+		5D2E23E0DE74FED3532BF890 /* CreelFace.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6548866F4216278EEE31C2D /* CreelFace.swift */; };
+		672E2DF52C182CCDE00FD350 /* CreelClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AF8E8BB490FA9069947B435 /* CreelClient.swift */; };
+		76627D6635E265FDF03F9955 /* CreelCodec.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0456436F6CDC63850E10D00A /* CreelCodec.swift */; };
+		822D8325D503DC29C5D2E34B /* Stringer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 253541DFA855AC3D36341487 /* Stringer.swift */; };
+		8B4AF61E230E4D8D17663756 /* StringerStoreTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4B2E8573A759532A96F2578 /* StringerStoreTests.swift */; };
+		8DC31BC95C1931B2A6D9A81F /* CreelClientTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E5FFD2E4BE3E830390848A8 /* CreelClientTests.swift */; };
+		925F7C455D60186BC71675EB /* Fish.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5653CEDE73B7B3FE383EFE8A /* Fish.swift */; };
+		997E160766AE5768B5AEE4C3 /* Release.swift in Sources */ = {isa = PBXBuildFile; fileRef = 671AC349E5CD2B95212113B2 /* Release.swift */; };
+		9F954FBCD5533DF14FFF6929 /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = A0B7E3E6F2AA319B516BE81C /* Alamofire */; };
+		A2AC50462AB21AAAC0775D7E /* Over.swift in Sources */ = {isa = PBXBuildFile; fileRef = 052BC3D847D8F27593DC1D5A /* Over.swift */; };
+		A4A6F2F7F2CF5A28C14EB234 /* WithycreelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 870DDF677D0752C30FDB7D58 /* WithycreelTests.swift */; };
+		A6479BEBAAC297FA4503919F /* CreelSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75753931C57B75F9DFAE33A9 /* CreelSettings.swift */; };
+		A6A1C7D4AC3A19740A7D26C4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FDC0903B8FA84F0882B0937 /* AppDelegate.swift */; };
+		AABF5961F1CDB979956DE45D /* StringerStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0D6B4BA16C634FCC259A559 /* StringerStore.swift */; };
+		B1CA5DF81FA19280B17B182C /* CreelCensus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92180BF246D49C659A4ED065 /* CreelCensus.swift */; };
+		B56FBFA1DA4AF30B63B4EDA5 /* OverhangPane.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992C2B9DB66D6798F51C8BD5 /* OverhangPane.swift */; };
+		B68ECDB488CAEFDCFB78F46B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 173297E71DD991B7390B21E6 /* Assets.xcassets */; };
+		BD9E4E30E6099344D56F2385 /* StringerMemory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A1046D45F79EF9493830C74 /* StringerMemory.swift */; };
+		C9E04EAB9A8970FCB2CA98B0 /* OpenClipFace.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF2DFDD12E02028C21728296 /* OpenClipFace.swift */; };
+		D30753742BD5ADC1FF60CB47 /* CreelDocument.swift in Sources */ = {isa = PBXBuildFile; fileRef = E39588F5208C39EE0ABCC07A /* CreelDocument.swift */; };
+		D3DC9C3F00DFC46B65060678 /* CreelFigure.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8B6CCFDF60E7F964C0FBFCA /* CreelFigure.swift */; };
+		D78A12AC0B4F7072FEED34E5 /* GlassStringer.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFAF54B6D99D8DBE1C60C8A0 /* GlassStringer.swift */; };
+		D7BF6F559FAA3865F9912E06 /* CreelPassage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51BCB0EA6367C5CE32A74F54 /* CreelPassage.swift */; };
+		DE98B662B20F9D5F425281AA /* LimitsPane.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37B913F94955B3A9BCDA3312 /* LimitsPane.swift */; };
+		E1202B40DC4864FD17965DF6 /* WithycreelApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE1F90730B1612A7E23D3D6F /* WithycreelApp.swift */; };
+		EAA502A18D1CD379B40F00D3 /* CreelSeed.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6F8DF63FC90BC8636B3C14A /* CreelSeed.swift */; };
+		F1D7CEC4C45DE6596A9F119B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5911CA5DE611961CAD222B32 /* ContentView.swift */; };
+		FF8A4B4E353A9FA4218EF594 /* FishClipFace.swift in Sources */ = {isa = PBXBuildFile; fileRef = B939BBC2D87DA432FF723FE4 /* FishClipFace.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		DC1ECBF8BE197638A73A2E23 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 84F97F5C66800E9A4ABD0562 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = ED8C6B0CCAFAB064C30BAD31;
+			remoteInfo = Withycreel;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0456436F6CDC63850E10D00A /* CreelCodec.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreelCodec.swift; sourceTree = "<group>"; };
+		0492EF45FE261AF2BFE8C571 /* CatchesPane.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatchesPane.swift; sourceTree = "<group>"; };
+		052BC3D847D8F27593DC1D5A /* Over.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Over.swift; sourceTree = "<group>"; };
+		08F1E871E5F0F36E21592F68 /* StringerChrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringerChrome.swift; sourceTree = "<group>"; };
+		0AF8E8BB490FA9069947B435 /* CreelClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreelClient.swift; sourceTree = "<group>"; };
+		0FD87FDDBAD565BCDEF7849F /* WithycreelTests.xctest */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.cfbundle; path = WithycreelTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		173297E71DD991B7390B21E6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		253541DFA855AC3D36341487 /* Stringer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stringer.swift; sourceTree = "<group>"; };
+		2FDC0903B8FA84F0882B0937 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		37B913F94955B3A9BCDA3312 /* LimitsPane.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LimitsPane.swift; sourceTree = "<group>"; };
+		3D72B5BE57229CADC0E85B84 /* CreelHoldTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreelHoldTests.swift; sourceTree = "<group>"; };
+		519254572B6CD7439CFB03B1 /* StringerFoldTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringerFoldTests.swift; sourceTree = "<group>"; };
+		51BCB0EA6367C5CE32A74F54 /* CreelPassage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreelPassage.swift; sourceTree = "<group>"; };
+		5653CEDE73B7B3FE383EFE8A /* Fish.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fish.swift; sourceTree = "<group>"; };
+		5911CA5DE611961CAD222B32 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		6032D36ECB6639A4EA31EB8D /* CreelInk.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreelInk.swift; sourceTree = "<group>"; };
+		665E994139FD62B17BC46F65 /* APIConfig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIConfig.swift; sourceTree = "<group>"; };
+		671AC349E5CD2B95212113B2 /* Release.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Release.swift; sourceTree = "<group>"; };
+		6A1046D45F79EF9493830C74 /* StringerMemory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringerMemory.swift; sourceTree = "<group>"; };
+		6AADDA46AD7F457A12203589 /* StringerLaunch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringerLaunch.swift; sourceTree = "<group>"; };
+		6D19DD63827980EAE519B9D1 /* KeepMark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeepMark.swift; sourceTree = "<group>"; };
+		6FF1F2B549E71B2730B32F10 /* Withycreel.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = Withycreel.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		743D8D961C9E2AC62E8E9325 /* CreelTestDates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreelTestDates.swift; sourceTree = "<group>"; };
+		75753931C57B75F9DFAE33A9 /* CreelSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreelSettings.swift; sourceTree = "<group>"; };
+		7A76070286D4A697E76F416A /* StringerLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringerLaunchTests.swift; sourceTree = "<group>"; };
+		7E5FFD2E4BE3E830390848A8 /* CreelClientTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreelClientTests.swift; sourceTree = "<group>"; };
+		870DDF677D0752C30FDB7D58 /* WithycreelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WithycreelTests.swift; sourceTree = "<group>"; };
+		8CD1F618959C249563642E99 /* FamilyInvariantTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FamilyInvariantTests.swift; sourceTree = "<group>"; };
+		92180BF246D49C659A4ED065 /* CreelCensus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreelCensus.swift; sourceTree = "<group>"; };
+		992C2B9DB66D6798F51C8BD5 /* OverhangPane.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OverhangPane.swift; sourceTree = "<group>"; };
+		9AE2AB36BCC0876B3DB8FA4E /* CreelFault.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreelFault.swift; sourceTree = "<group>"; };
+		A598FB0A689775E6E5BBC94A /* CensusDay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CensusDay.swift; sourceTree = "<group>"; };
+		A6F8DF63FC90BC8636B3C14A /* CreelSeed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreelSeed.swift; sourceTree = "<group>"; };
+		ACD146183DD88BEC6DEC9486 /* CreelHold.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreelHold.swift; sourceTree = "<group>"; };
+		B6548866F4216278EEE31C2D /* CreelFace.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreelFace.swift; sourceTree = "<group>"; };
+		B939BBC2D87DA432FF723FE4 /* FishClipFace.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FishClipFace.swift; sourceTree = "<group>"; };
+		BF2DFDD12E02028C21728296 /* OpenClipFace.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpenClipFace.swift; sourceTree = "<group>"; };
+		C7A7F95FA8AA0A9C0E99198F /* CreelYard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreelYard.swift; sourceTree = "<group>"; };
+		D0D6B4BA16C634FCC259A559 /* StringerStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringerStore.swift; sourceTree = "<group>"; };
+		D14157A675E3A55512CC290F /* SpeciesLimit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpeciesLimit.swift; sourceTree = "<group>"; };
+		D8B6CCFDF60E7F964C0FBFCA /* CreelFigure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreelFigure.swift; sourceTree = "<group>"; };
+		DE1F90730B1612A7E23D3D6F /* WithycreelApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WithycreelApp.swift; sourceTree = "<group>"; };
+		DFAF54B6D99D8DBE1C60C8A0 /* GlassStringer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlassStringer.swift; sourceTree = "<group>"; };
+		E39588F5208C39EE0ABCC07A /* CreelDocument.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreelDocument.swift; sourceTree = "<group>"; };
+		F4B2E8573A759532A96F2578 /* StringerStoreTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringerStoreTests.swift; sourceTree = "<group>"; };
+		FC37630746B32580BFA65865 /* CreelPlate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreelPlate.swift; sourceTree = "<group>"; };
+		FDB0F51A74F68BC7E374C868 /* CreelCSV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreelCSV.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		81EE20AB5CA6DFE49511BF93 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9F954FBCD5533DF14FFF6929 /* Alamofire in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0103C3F2AAF0A857929C5946 = {
+			isa = PBXGroup;
+			children = (
+				AB912ED4EB244F806D1D3EFB /* Withycreel */,
+				A13F677B9816A578DEEE4CFD /* WithycreelTests */,
+				C91D1FAF146DDD4A579927E3 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		2D606C47B5CB0EBB3C489C38 /* Fish */ = {
+			isa = PBXGroup;
+			children = (
+				5653CEDE73B7B3FE383EFE8A /* Fish.swift */,
+				B939BBC2D87DA432FF723FE4 /* FishClipFace.swift */,
+			);
+			path = Fish;
+			sourceTree = "<group>";
+		};
+		6AEEAE04E3EC4B43079213ED /* Limit */ = {
+			isa = PBXGroup;
+			children = (
+				C7A7F95FA8AA0A9C0E99198F /* CreelYard.swift */,
+				37B913F94955B3A9BCDA3312 /* LimitsPane.swift */,
+				D14157A675E3A55512CC290F /* SpeciesLimit.swift */,
+			);
+			path = Limit;
+			sourceTree = "<group>";
+		};
+		80F66D6B63569575825AE317 /* Over */ = {
+			isa = PBXGroup;
+			children = (
+				052BC3D847D8F27593DC1D5A /* Over.swift */,
+				992C2B9DB66D6798F51C8BD5 /* OverhangPane.swift */,
+			);
+			path = Over;
+			sourceTree = "<group>";
+		};
+		A13F677B9816A578DEEE4CFD /* WithycreelTests */ = {
+			isa = PBXGroup;
+			children = (
+				7E5FFD2E4BE3E830390848A8 /* CreelClientTests.swift */,
+				3D72B5BE57229CADC0E85B84 /* CreelHoldTests.swift */,
+				743D8D961C9E2AC62E8E9325 /* CreelTestDates.swift */,
+				8CD1F618959C249563642E99 /* FamilyInvariantTests.swift */,
+				519254572B6CD7439CFB03B1 /* StringerFoldTests.swift */,
+				7A76070286D4A697E76F416A /* StringerLaunchTests.swift */,
+				F4B2E8573A759532A96F2578 /* StringerStoreTests.swift */,
+				870DDF677D0752C30FDB7D58 /* WithycreelTests.swift */,
+			);
+			path = WithycreelTests;
+			sourceTree = "<group>";
+		};
+		AB912ED4EB244F806D1D3EFB /* Withycreel */ = {
+			isa = PBXGroup;
+			children = (
+				665E994139FD62B17BC46F65 /* APIConfig.swift */,
+				2FDC0903B8FA84F0882B0937 /* AppDelegate.swift */,
+				173297E71DD991B7390B21E6 /* Assets.xcassets */,
+				5911CA5DE611961CAD222B32 /* ContentView.swift */,
+				DE1F90730B1612A7E23D3D6F /* WithycreelApp.swift */,
+				2D606C47B5CB0EBB3C489C38 /* Fish */,
+				BD2E7FC622ABF3D1208CB108 /* KeepMark */,
+				6AEEAE04E3EC4B43079213ED /* Limit */,
+				80F66D6B63569575825AE317 /* Over */,
+				F6F98FDBA6E841F6301EC7DE /* Release */,
+				D67F7C38E9CD28D45794EF86 /* Stringer */,
+			);
+			path = Withycreel;
+			sourceTree = "<group>";
+		};
+		BD2E7FC622ABF3D1208CB108 /* KeepMark */ = {
+			isa = PBXGroup;
+			children = (
+				6D19DD63827980EAE519B9D1 /* KeepMark.swift */,
+			);
+			path = KeepMark;
+			sourceTree = "<group>";
+		};
+		C91D1FAF146DDD4A579927E3 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6FF1F2B549E71B2730B32F10 /* Withycreel.app */,
+				0FD87FDDBAD565BCDEF7849F /* WithycreelTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D67F7C38E9CD28D45794EF86 /* Stringer */ = {
+			isa = PBXGroup;
+			children = (
+				0492EF45FE261AF2BFE8C571 /* CatchesPane.swift */,
+				A598FB0A689775E6E5BBC94A /* CensusDay.swift */,
+				92180BF246D49C659A4ED065 /* CreelCensus.swift */,
+				0AF8E8BB490FA9069947B435 /* CreelClient.swift */,
+				0456436F6CDC63850E10D00A /* CreelCodec.swift */,
+				FDB0F51A74F68BC7E374C868 /* CreelCSV.swift */,
+				E39588F5208C39EE0ABCC07A /* CreelDocument.swift */,
+				B6548866F4216278EEE31C2D /* CreelFace.swift */,
+				9AE2AB36BCC0876B3DB8FA4E /* CreelFault.swift */,
+				D8B6CCFDF60E7F964C0FBFCA /* CreelFigure.swift */,
+				ACD146183DD88BEC6DEC9486 /* CreelHold.swift */,
+				6032D36ECB6639A4EA31EB8D /* CreelInk.swift */,
+				51BCB0EA6367C5CE32A74F54 /* CreelPassage.swift */,
+				FC37630746B32580BFA65865 /* CreelPlate.swift */,
+				A6F8DF63FC90BC8636B3C14A /* CreelSeed.swift */,
+				75753931C57B75F9DFAE33A9 /* CreelSettings.swift */,
+				DFAF54B6D99D8DBE1C60C8A0 /* GlassStringer.swift */,
+				BF2DFDD12E02028C21728296 /* OpenClipFace.swift */,
+				253541DFA855AC3D36341487 /* Stringer.swift */,
+				08F1E871E5F0F36E21592F68 /* StringerChrome.swift */,
+				6AADDA46AD7F457A12203589 /* StringerLaunch.swift */,
+				6A1046D45F79EF9493830C74 /* StringerMemory.swift */,
+				D0D6B4BA16C634FCC259A559 /* StringerStore.swift */,
+			);
+			path = Stringer;
+			sourceTree = "<group>";
+		};
+		F6F98FDBA6E841F6301EC7DE /* Release */ = {
+			isa = PBXGroup;
+			children = (
+				671AC349E5CD2B95212113B2 /* Release.swift */,
+			);
+			path = Release;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CD2D7F6A7299429CADF1EB87 /* WithycreelTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2D1A3DE2F373C1CFC6038DF0 /* Build configuration list for PBXNativeTarget "WithycreelTests" */;
+			buildPhases = (
+				47E7A4E34ED78701952F8D02 /* Sources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8B9F616C8E58292ABB78AD49 /* PBXTargetDependency */,
+			);
+			name = WithycreelTests;
+			packageProductDependencies = (
+			);
+			productName = WithycreelTests;
+			productReference = 0FD87FDDBAD565BCDEF7849F /* WithycreelTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		ED8C6B0CCAFAB064C30BAD31 /* Withycreel */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 285F0D07AAF4149969845E69 /* Build configuration list for PBXNativeTarget "Withycreel" */;
+			buildPhases = (
+				D6E9496A2AC182F0DF908EF4 /* Sources */,
+				C228A68F34D8D3768890ADDE /* Resources */,
+				81EE20AB5CA6DFE49511BF93 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Withycreel;
+			packageProductDependencies = (
+				A0B7E3E6F2AA319B516BE81C /* Alamofire */,
+			);
+			productName = Withycreel;
+			productReference = 6FF1F2B549E71B2730B32F10 /* Withycreel.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		84F97F5C66800E9A4ABD0562 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					CD2D7F6A7299429CADF1EB87 = {
+						ProvisioningStyle = Automatic;
+					};
+					ED8C6B0CCAFAB064C30BAD31 = {
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = F6ED09875CCDE7D5F01B4ADC /* Build configuration list for PBXProject "Withycreel" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				en,
+			);
+			mainGroup = 0103C3F2AAF0A857929C5946;
+			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				D70F4C8A00EFBE2D30D7D786 /* XCRemoteSwiftPackageReference "Alamofire" */,
+			);
+			preferredProjectObjectVersion = 77;
+			productRefGroup = C91D1FAF146DDD4A579927E3 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				ED8C6B0CCAFAB064C30BAD31 /* Withycreel */,
+				CD2D7F6A7299429CADF1EB87 /* WithycreelTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C228A68F34D8D3768890ADDE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B68ECDB488CAEFDCFB78F46B /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		47E7A4E34ED78701952F8D02 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8DC31BC95C1931B2A6D9A81F /* CreelClientTests.swift in Sources */,
+				1D178D58D86EF20AF97ED260 /* CreelHoldTests.swift in Sources */,
+				1C9332F01BAC5E0542ED306C /* CreelTestDates.swift in Sources */,
+				2DC1C8F2BAD10148B2C29C8D /* FamilyInvariantTests.swift in Sources */,
+				136019A9FF1C146CD82039E8 /* StringerFoldTests.swift in Sources */,
+				04C2795B5E2ABF6237566003 /* StringerLaunchTests.swift in Sources */,
+				8B4AF61E230E4D8D17663756 /* StringerStoreTests.swift in Sources */,
+				A4A6F2F7F2CF5A28C14EB234 /* WithycreelTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D6E9496A2AC182F0DF908EF4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				205265B20E6D8A2833EFE3F6 /* APIConfig.swift in Sources */,
+				A6A1C7D4AC3A19740A7D26C4 /* AppDelegate.swift in Sources */,
+				3E64BE397945412A70380A03 /* CatchesPane.swift in Sources */,
+				2D4FA0D4E98D65CC170E07A9 /* CensusDay.swift in Sources */,
+				F1D7CEC4C45DE6596A9F119B /* ContentView.swift in Sources */,
+				3055781D482EFB0E81E8EC27 /* CreelCSV.swift in Sources */,
+				B1CA5DF81FA19280B17B182C /* CreelCensus.swift in Sources */,
+				672E2DF52C182CCDE00FD350 /* CreelClient.swift in Sources */,
+				76627D6635E265FDF03F9955 /* CreelCodec.swift in Sources */,
+				D30753742BD5ADC1FF60CB47 /* CreelDocument.swift in Sources */,
+				5D2E23E0DE74FED3532BF890 /* CreelFace.swift in Sources */,
+				195DE6EC9389FAAD53D0D6D8 /* CreelFault.swift in Sources */,
+				D3DC9C3F00DFC46B65060678 /* CreelFigure.swift in Sources */,
+				3113D8BB6996D9CF171E6873 /* CreelHold.swift in Sources */,
+				3A3C081DFDDB1EE409A6A3F2 /* CreelInk.swift in Sources */,
+				D7BF6F559FAA3865F9912E06 /* CreelPassage.swift in Sources */,
+				4B7F27B9F9BF381161F38D08 /* CreelPlate.swift in Sources */,
+				EAA502A18D1CD379B40F00D3 /* CreelSeed.swift in Sources */,
+				A6479BEBAAC297FA4503919F /* CreelSettings.swift in Sources */,
+				0F64AD6A433593DA310D6695 /* CreelYard.swift in Sources */,
+				925F7C455D60186BC71675EB /* Fish.swift in Sources */,
+				FF8A4B4E353A9FA4218EF594 /* FishClipFace.swift in Sources */,
+				D78A12AC0B4F7072FEED34E5 /* GlassStringer.swift in Sources */,
+				2630B1327FBE3EE681C3595F /* KeepMark.swift in Sources */,
+				DE98B662B20F9D5F425281AA /* LimitsPane.swift in Sources */,
+				C9E04EAB9A8970FCB2CA98B0 /* OpenClipFace.swift in Sources */,
+				A2AC50462AB21AAAC0775D7E /* Over.swift in Sources */,
+				B56FBFA1DA4AF30B63B4EDA5 /* OverhangPane.swift in Sources */,
+				997E160766AE5768B5AEE4C3 /* Release.swift in Sources */,
+				1E36B08644C42595DF10E17E /* SpeciesLimit.swift in Sources */,
+				822D8325D503DC29C5D2E34B /* Stringer.swift in Sources */,
+				29824FE05963DCADB061EB47 /* StringerChrome.swift in Sources */,
+				4E1BC5993153AEA9847A507E /* StringerLaunch.swift in Sources */,
+				BD9E4E30E6099344D56F2385 /* StringerMemory.swift in Sources */,
+				AABF5961F1CDB979956DE45D /* StringerStore.swift in Sources */,
+				E1202B40DC4864FD17965DF6 /* WithycreelApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		8B9F616C8E58292ABB78AD49 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = ED8C6B0CCAFAB064C30BAD31 /* Withycreel */;
+			targetProxy = DC1ECBF8BE197638A73A2E23 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		04DECB93B38D9DB3B0B8DF98 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.withycreel.bag.tests;
+				SDKROOT = iphoneos;
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 6.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Withycreel.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Withycreel";
+			};
+			name = Release;
+		};
+		101B6E2DB12502E7D53D46A6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Withycreel;
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.sports";
+				INFOPLIST_KEY_NSCameraUsageDescription = "This app does not use the camera.";
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.withycreel.bag;
+				PRODUCT_NAME = Withycreel;
+				SDKROOT = iphoneos;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_STRICT_CONCURRENCY = complete;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		22862D2A2C05C04DB7189AD0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"DEBUG=1",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 6.2;
+			};
+			name = Debug;
+		};
+		30E8B58AEEAD023940650708 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Withycreel;
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.sports";
+				INFOPLIST_KEY_NSCameraUsageDescription = "This app does not use the camera.";
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.withycreel.bag;
+				PRODUCT_NAME = Withycreel;
+				SDKROOT = iphoneos;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_STRICT_CONCURRENCY = complete;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		40B436C5F73856F84FAFFFC2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.withycreel.bag.tests;
+				SDKROOT = iphoneos;
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 6.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Withycreel.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Withycreel";
+			};
+			name = Debug;
+		};
+		B244DDF006573CE9D2F9E751 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 6.2;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		285F0D07AAF4149969845E69 /* Build configuration list for PBXNativeTarget "Withycreel" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				30E8B58AEEAD023940650708 /* Debug */,
+				101B6E2DB12502E7D53D46A6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		2D1A3DE2F373C1CFC6038DF0 /* Build configuration list for PBXNativeTarget "WithycreelTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				40B436C5F73856F84FAFFFC2 /* Debug */,
+				04DECB93B38D9DB3B0B8DF98 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		F6ED09875CCDE7D5F01B4ADC /* Build configuration list for PBXProject "Withycreel" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				22862D2A2C05C04DB7189AD0 /* Debug */,
+				B244DDF006573CE9D2F9E751 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		D70F4C8A00EFBE2D30D7D786 /* XCRemoteSwiftPackageReference "Alamofire" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/wrandecima-bit/Alamofire";
+			requirement = {
+				kind = revision;
+				revision = 7fdd403089757be2ce6991b287c7bef612c8bd04;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		A0B7E3E6F2AA319B516BE81C /* Alamofire */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D70F4C8A00EFBE2D30D7D786 /* XCRemoteSwiftPackageReference "Alamofire" */;
+			productName = Alamofire;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = 84F97F5C66800E9A4ABD0562 /* Project object */;
+}

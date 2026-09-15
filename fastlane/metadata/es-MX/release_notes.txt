@@ -1,0 +1,7 @@
+La versión 1.0 es el primer lanzamiento de Withycreel.
+
+Capturas es la sarta de hoy. Toca Conservar para registrar un pez de la especie, la longitud y el peso seleccionados. Toca Liberar para registrar sin gastar el restante. Quedan hoy y Quedan este año se actualizan después de conservar. Cuando el cupo ya está lleno, Conservar igual registra y ese pez queda marcado como Exceso.
+
+Quitar el último elimina el último pez de la sarta de hoy. Límites permite fijar el Cupo diario y el Cupo de temporada para Perca, Brema, Lucio y Tenca. Ajustes incluye Unidades de visualización, Exportar CSV, Conservar en exceso, Contactar Withycreel, Volver a ver la introducción y Borrar todos los datos.
+
+La introducción cubre Conserva la sarta de hoy, Conservar es el primer toque, Un cupo lleno igual conserva y Elige la unidad de visualización.

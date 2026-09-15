@@ -1,0 +1,11 @@
+Withycreel es un registro de capturas para pescadores que deben saber qué pueden conservar frente a los cupos diarios y de temporada. El inicio es la sarta de hoy en Capturas.
+
+• Conserva la sarta de hoy: elige Perca, Brema, Lucio o Tenca, indica Longitud y Peso y toca Conservar.
+• Liberar registra un pez sin gastar el restante.
+• Quedan hoy y Quedan este año muestran el restante de la especie seleccionada. Este mes muestra el peso conservado.
+• Conservar en exceso: cuando el cupo de hoy o el de este año ya está lleno, Conservar igual registra y el pez queda en Exceso. El restante se queda en cero.
+• Quitar el último deshace solo el último pez de hoy.
+• Límites: edita Cupo diario en Hoy y Cupo de temporada en Este año para cada especie.
+• Ajustes: Unidades de visualización (Métrico o Imperial), Exportar CSV, Conservar en exceso, Contactar Withycreel, Volver a ver la introducción y Borrar todos los datos.
+
+Los peces, las piezas y los cupos se quedan en este dispositivo. No hay cuenta ni tienda.

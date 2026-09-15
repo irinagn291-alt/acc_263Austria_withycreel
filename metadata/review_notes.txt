@@ -1,0 +1,15 @@
+The app does not show a permission prompt. The only usage-description string in the build settings is the camera string: This app does not use the camera. Camera access is never requested.
+
+There is no login, no in-app purchase, no user-generated content, no account deletion flow, and no App Tracking Transparency prompt.
+
+Withycreel is a personal catch log for anglers who keep a daily and season bag. Catches is today's stringer. The reviewer files Keep or Release against Perch, Bream, Pike, or Tench and edits Daily bag and Season bag on Limits.
+
+No credentials or demo account are needed. Cold launch opens onboarding. The first page is titled Keep today's stringer and reads An angler clips a kept fish on today's stringer and the remaining bag for that species updates. Tap Next. The second page is titled Keep is the first tap and reads Species, length, and weight stay on the open clip. Tap Keep to file. Release files without spending remaining. Tap Next. The third page is titled A full bag still keeps and reads When remaining is already zero, Keep still files. That fish hangs Over past the last clip, and remaining stays at zero. Tap Next. The last page is titled Pick a display yard, with Metric (Centimetres and kilograms) and Imperial (Inches and pounds on screen). Tap Open the stringer, or tap Skip. The app then opens Catches. If today's stringer is empty, the page reads No catches yet. and Log the first fish. Tap Keep to file the first fish. After a keep, the open clip shows Keep today's stringer, Left today, Left this year, species chips, Length, Weight, Keep, Release, and Peel last. Tap Limits, lower Daily bag to zero on a species, return to Catches, and tap Keep. The open clip reads Bag is full. Keep still files; this fish hangs Over. The filed clip is marked Over and reads Hung past the last clip. Remaining stayed at zero. The Over line on the open clip also opens Overhang keep. Swipe the stringer to read clips marked Kept, Released, or Over. On Limits, edit Daily bag under Today and Season bag under This year. On Settings, use Display units, Export CSV, Overhang keep, Contact Withycreel, Re-run onboarding, and Reset all data. Reset asks Erase every fish, keep, and bag on this device? Confirm with Reset all data or cancel with Keep the creel.
+
+Fish, keeps, and bags stay on this device. Export CSV writes a local file; nothing leaves the device until the reviewer uses Share creel-census.csv. Contact Withycreel opens the support page.
+
+Behaviour does not change by region. Display units are a user choice of Metric or Imperial. Day and year follow the device calendar.
+
+No licence or regulated-industry paperwork applies. Daily bag and Season bag are personal figures the user edits. The app does not issue a fishing licence and does not speak for a regulator.
+
+The app is a personal log only and gives no recommendations. It does not show health, medical, or product-health information.

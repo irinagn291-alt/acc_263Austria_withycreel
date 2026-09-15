@@ -1,0 +1,7 @@
+Version 1.0 is the first release of Withycreel.
+
+Catches is today's stringer. Tap Keep to file a fish of the selected species, length, and weight. Tap Release to file without spending remaining. Left today and Left this year update after a keep. When the bag is already full, Keep still files and that fish is marked Over.
+
+Peel last removes the last fish from today's stringer. Limits lets you set Daily bag and Season bag for Perch, Bream, Pike, and Tench. Settings includes Display units, Export CSV, Overhang keep, Contact Withycreel, Re-run onboarding, and Reset all data.
+
+Onboarding covers Keep today's stringer, Keep is the first tap, A full bag still keeps, and Pick a display yard.

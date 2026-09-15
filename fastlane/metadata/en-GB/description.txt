@@ -1,0 +1,11 @@
+Withycreel is a catch log for anglers who must know what they may keep against daily and season bag limits. Home is today's stringer on Catches.
+
+• Keep today's stringer: choose Perch, Bream, Pike or Tench, enter Length and Weight, then tap Keep.
+• Release files a fish without spending remaining.
+• Left today and Left this year show remaining on the selected species. This month shows kept weight.
+• Overhang keep: when today's bag or this year's bag is already full, Keep still files and the fish hangs Over. Remaining stays at zero.
+• Peel last undoes only today's last fish.
+• Limits: edit Daily bag under Today and Season bag under This year for each species.
+• Settings: Display units (Metric or Imperial), Export CSV, Overhang keep, Contact Withycreel, Re-run onboarding and Reset all data.
+
+Fish, keeps and bags stay on this device. There is no account and no shop.

@@ -1,0 +1,1 @@
+Conserva la sarta de hoy. Registra Conservar o Liberar con longitud y peso. Quedan hoy y Quedan este año se actualizan. Un cupo lleno aún se registra como Exceso.
